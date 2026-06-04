@@ -1,0 +1,59 @@
+{
+  "siteId": "spring-refresh-organization",
+  "generatedAt": "2026-06-04T11:35:16.339891",
+  "categories": [
+    "beginner-spring-refresh-organization",
+    "advanced-spring-refresh-organization",
+    "tips-spring-refresh-organization",
+    "history-spring-refresh-organization",
+    "trending-spring-refresh-organization",
+    "tutorials-spring-refresh-organization"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-spring-refresh-organization",
+      "category_name": "Beginner Spring Refresh Organization"
+    },
+    {
+      "category_slug": "advanced-spring-refresh-organization",
+      "category_name": "Advanced Spring Refresh Organization"
+    },
+    {
+      "category_slug": "tips-spring-refresh-organization",
+      "category_name": "Spring Refresh Organization Tips"
+    },
+    {
+      "category_slug": "history-spring-refresh-organization",
+      "category_name": "Spring Refresh Organization History"
+    },
+    {
+      "category_slug": "trending-spring-refresh-organization",
+      "category_name": "Trending Spring Refresh Organization"
+    },
+    {
+      "category_slug": "tutorials-spring-refresh-organization",
+      "category_name": "Spring Refresh Organization Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "spring-refresh-organization",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Spring Refresh Organization Central",
+    "articles_per_row": 3
+  }
+}
